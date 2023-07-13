@@ -1,0 +1,17 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ezoza",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.7.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
